@@ -1,0 +1,5 @@
+Admin,admin1234@,admin,System Administrator,What was your first car?,Swift,true
+sahab,sahab1234@#,customer,Sahab,What was your first car?,Honda,true
+Kasun@123,Kasun@123,customer,Kasun,What was your first car?,Nissan,true
+Kavi@123,Kavi123@,customer,Kavi,What was your first car?,Tesla,true
+kasun25,kasun,customer,kasun miyuranga,What was your first car?,bmw,true
