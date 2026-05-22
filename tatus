@@ -1,0 +1,12 @@
+*   [33m496549e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32minventory-gamage[m[33m, [m[1;31morigin/service-feedback-ferdinandes[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/inventory-gamage[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #2 from IT25103851/user-management-lakmal
+[31m|[m[32m\[m  
+[31m|[m * [33m38dc32d[m[33m ([m[1;31morigin/user-management-lakmal[m[33m)[m User management
+* [32m|[m [33me9686db[m Merge pull request #1 from IT25103851/user-management-lakmal
+[33m|[m[32m\[m[32m|[m 
+[33m|[m * [33m3017494[m Add admin and customer dashboard UI with user management models
+[33m|[m[33m/[m  
+* [33me241468[m[33m ([m[1;31morigin/vehicle-gayanath[m[33m, [m[1;31morigin/Billing-and-invoice---Silva[m[33m, [m[1;31morigin/Appointment-Dulakshi[m[33m)[m Forgot password
+* [33m4f069a5[m Add user authentication pages and servlets
+* [33mb7852a0[m tomcat
+* [33m39f7ba0[m Smart tomcat
+* [33m2385216[m create initial file
