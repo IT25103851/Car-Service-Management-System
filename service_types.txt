@@ -1,0 +1,6 @@
+Standard Sedan Service|8500.0
+SUV Heavy Duty Maintenance|18000.0
+Hybrid System Check & Maintenance|12500.0
+Sports Car Performance Tuning|35000.0
+EV Powertrain Diagnostics|22000.0
+Crossover Suspension Overhaul|16000.0
