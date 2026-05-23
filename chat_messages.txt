@@ -1,0 +1,11 @@
+03b32134-06ce-4bf1-a040-42d4b67bbdc1|APP-BCDD26F5|admin|Admin|uihio;oiy|May 16, 12:57
+f2099d83-bcb2-4ea7-931d-17bf8d7ce390|APP-BCDD26F5|admin|Admin|please change time to 12.00 pm|May 16, 12:58
+099e1813-a4e3-4d9f-a1c9-9dd905ba78eb|APP-BCDD26F5|customer|Kavi@123|ok|May 16, 12:59
+59227c34-b544-4efc-80c7-66b3c370754e|APP-52594|customer|sahab|sir i have issue with this service|May 17, 14:52
+396705a9-e5c1-4030-9b06-4f2954883de7|APP-52594|admin|Admin|wtf bro ochchr hodt hadl dunn whne|May 17, 15:23
+eff76c2d-0a38-4edf-9342-61c563001b1b|APP-18044|admin|Admin|monad kiynne dan ub pko <span class='text-[8px] opacity-60'>(edited)</span>|May 17, 15:24
+19f9b6bb-0f38-4f3f-b738-a4fb97dcbfd7|APP-52594|customer|sahab|thanks bro|May 17, 18:48
+RD1779045001762|APP-52594|admin|Admin|__READ__|2026-05-18 00:40
+RD1779191544958|APP-18044|customer|sahab|__READ__|2026-05-19 17:22
+873799ba-2e07-42e4-924f-40c0fbe05145|APP-18044|customer|sahab|htto|May 19, 17:36
+RD1779201060403|APP-18044|admin|Admin|__READ__|2026-05-19 20:01
