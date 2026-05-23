@@ -1,0 +1,13 @@
+INV-5501|sahab|CBA-1234|Hybrid System Check & Maintenance (Parts: 1x Hybrid Battery Coolant, 2x Inverter Assembly)|298500.0|12500.0|311000.0|2026-05-08|PAID|N/A|N/A
+INV-6199|Kasun@123|CBN-1872|Sports Car Performance Tuning (Parts: 2x Performance Exhaust Kit, 4x Track Performance Tires)|700000.0|35000.0|735000.0|2026-05-08|PAID|N/A|N/A
+INV-9635|sahab|CBA-1234|SUV Heavy Duty Maintenance (Parts: 4x Heavy Duty Shocks, 4x Off-Road Brake Pads)|228000.0|18000.0|246000.0|2026-05-09|PAID|N/A|N/A
+INV86233|Kasun@123|CBN-1872|Hybrid System Check & Maintenance|12499.9|0.0|25400.0|2002-02-23|PAID|N/A|N/A
+INV-4747|sahab|DCC-1546|Standard Sedan Service (Parts: 4x Sedan Synthetic Motor Oil, 1x Standard Air Filter, 1x EP-rex 12v BAttery)|66500.0|8500.0|75000.0|2026-05-16|PAID|N/A|N/A
+INV63303|sahab|CBA-1234|general service|98778.0|0.0|98778.0|2026-06-23|PAID|N/A|N/A
+INV80574|sahab|DCC-1546|Crossover Suspension Overhaul|18000.0|0.0|19000.0|2026-06-26|PAID|N/A|N/A
+INV14749|WALKIN_sasanga|QC-6754|tire replace|46700.0|0.0|46700.0|2026-06-23|PAID|N/A|N/A
+INV70064|WALKIN_gayan|ABC-3456|Standard Sedan Service|8500.0|4999.99|13499.99|2026-05-19|PAID|N/A|N/A
+INV-1340|Kasun@123|CPR-4567|Sports Car Performance Tuning (Parts: 2x Performance Exhaust Kit, 4x Track Performance Tires)|345000.0|15000.0|360000.0|2026-05-19|PAID|N/A|N/A
+INV94963|sahab|CBA-1234|general service|18500.0|3000.0|21500.0|2026-05-20|PAID|N/A|N/A
+INV-5317|Kavi@123|CPR-4567|Standard Sedan Service (Parts: 6x Sedan Synthetic Motor Oil, 1x Standard Air Filter)|41500.0|8499.99|49999.99|2026-05-20|PAID|N/A|N/A
+INV-8309|Kasun@123|CPR-4567|SUV Heavy Duty Maintenance (Parts: 1x Heavy Duty Shocks)|45000.0|18000.0|63000.0|2026-05-20|PAID|N/A|N/A
