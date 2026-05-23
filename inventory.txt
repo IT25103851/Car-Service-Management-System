@@ -1,0 +1,14 @@
+SED-OIL|Sedan Synthetic Motor Oil|Fluids|18|6500.0|fa-oil-can|Standard Sedan Service
+SED-FIL|Standard Air Filter|Engine|14|2500.0|fa-gear|Standard Sedan Service
+SUV-SHK|Heavy Duty Shocks|Suspension|7|45000.0|fa-wrench|SUV Heavy Duty Maintenance
+SUV-BRK|Off-Road Brake Pads|Brakes|20|12000.0|fa-compact-disc|SUV Heavy Duty Maintenance
+HYB-COL|Hybrid Battery Coolant|Fluids|12|8500.0|fa-oil-can|Hybrid System Check & Maintenance
+HYB-INV|Inverter Assembly|Electrical|3|145000.0|fa-car-battery|Hybrid System Check & Maintenance
+SPT-EXH|Performance Exhaust Kit|Engine|4|180000.0|fa-wrench|Sports Car Performance Tuning
+SPT-TRP|Track Performance Tires|Suspension|16|85000.0|fa-gear|Sports Car Performance Tuning
+EV-HVC|High Voltage Cable Set|Electrical|10|32000.0|fa-car-battery|EV Powertrain Diagnostics
+EV-BMS|Battery Mgt System Sensor|Electrical|5|28000.0|fa-gear|EV Powertrain Diagnostics
+CRS-STR|Crossover Strut Assembly|Suspension|10|24000.0|fa-wrench|Crossover Suspension Overhaul
+CRS-AXL|CV Axle Shaft|Engine|6|38000.0|fa-gear|Crossover Suspension Overhaul
+TST-001|Test Spark Plug|Engine|10|1500.0|fa-gear|none
+OIL-100|Ultra Synthetic Oil|Fluids|25|5800.0|fa-oil-can|none
